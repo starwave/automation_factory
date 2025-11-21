@@ -1,4 +1,4 @@
-# automation factory
+# automation factory package sorter
 
 A package sorting service for Thoughtful's robotic automation factory. This service dispatches packages to the correct stack based on their volume and mass.
 
